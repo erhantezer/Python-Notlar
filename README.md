@@ -1,4 +1,4 @@
 # Python-Notlar
 ## clarusway calısmaları
-<hr>
-*python temel konular*
+<hr> <br>
+**python temel konular**
